@@ -1,0 +1,11 @@
+Ork Mieciu 5 21 1 1
+TopOrk Zdzichu 4 16 3 6 1
+OrkNitolog Czesiu 7 12 4 6 1
+OrkAdiusz Benja 3 20 5 6 1
+Ork Alfred 5 23 1 1
+TopOrk Denis 4 17 5 6 1
+OrkNitolog Edvard 6 30 2 3 1
+OrkAdiusz KoksuMiszcz 10 40 1 1 1
+TopOrk Strategiusz 2 15 5 10 1
+Ork Loseramix 1 1 1 1
+Orkhybryda Kociol 3 3 3 3 3
